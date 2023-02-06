@@ -1,7 +1,7 @@
 ## <div align="center">Padrões de Commits<div>
   
 <div align="center">
-<img src="https://user-images.githubusercontent.com/80191040/216955990-fbe90e45-cbcb-460f-a2df-f7dc4a7b2172.svg" width="450px">
+<a href="https://github.com/adriwco/padroes-de-commits"><img src="https://user-images.githubusercontent.com/80191040/216955990-fbe90e45-cbcb-460f-a2df-f7dc4a7b2172.svg" width="450px"></a>
 </div>
   
 ### 🔹 Estrutura :
@@ -180,7 +180,7 @@
 <div>
   
 <div align="center">
-<img src="https://user-images.githubusercontent.com/80191040/216958536-37337945-8f2d-4302-a627-4dd4edba22a4.svg" width="450px">
+<a href="https://github.com/adriwco/padroes-de-commits"><img src="https://user-images.githubusercontent.com/80191040/216958536-37337945-8f2d-4302-a627-4dd4edba22a4.svg" width="450px"></a>
 </div>
 
 ### <p align="center">🔹[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)🔹</p>
