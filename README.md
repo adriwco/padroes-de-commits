@@ -1,10 +1,10 @@
 ## Padrões de Commits
 
-## Estrutura de Commit
+### Estrutura :
 
-<p>:emoji: <code> <tipo>(escopo): <descrição></code> </p>
+<p><code>:emoji: palavra-chave [escopo]: descrição </code></p>
 
-## 💈 Padrões de emojis
+### Padrões :
 
 <table>
   <thead>
@@ -18,7 +18,7 @@
     <tr>
       <td>Acessibilidade</td>
       <td>♿ <code>:wheelchair:</code></td>
-      <td></td>
+      <td><code>accessibility</code></td>
     </tr>
     <tr>
       <td>Adicionando um teste</td>
@@ -63,7 +63,7 @@
     <tr>
       <td>Deploy</td>
       <td>🚀 <code>:rocket:</code></td>
-      <td></td>
+      <td><code>deploy</code></td>
     </tr>
     <tr>
       <td>Documentação</td>
@@ -86,9 +86,9 @@
       <td><code>ci</code></td>
     </tr>
     <tr>
-      <td>Lista de ideias (tasks)</td>
+      <td>Lista de ideias</td>
       <td>🔜 <code> :soon: </code></td>
-      <td></td>
+      <td><code>task</code></td>
     </tr>
     <tr>
       <td>Mover/Renomear</td>
@@ -118,7 +118,7 @@
     <tr>
       <td>Removendo um arquivo</td>
       <td>🔥 <code>:fire:</code></td>
-      <td></td>
+      <td><code>remove-file</code></td>
     </tr>
     <tr>
       <td>Removendo uma dependência</td>
@@ -128,7 +128,7 @@
     <tr>
       <td>Responsividade</td>
       <td>📱 <code>:iphone:</code></td>
-      <td></td>
+      <td><code>display</code></td>
     </tr>
     <tr>
       <td>Revertendo mudanças</td>
@@ -138,7 +138,7 @@
     <tr>
       <td>Segurança</td>
       <td>🔒️ <code>:lock:</code></td>
-      <td></td>
+      <td><code>security</code></td>
     </tr>
     <tr>
       <td>SEO</td>
@@ -153,7 +153,7 @@
     <tr>
       <td>Teste de aprovação</td>
       <td>✔️ <code>:heavy_check_mark:</code></td>
-      <td><code>test</code></td>
+      <td><code>test-ok</code></td>
     </tr>
     <tr>
       <td>Testes</td>
@@ -163,17 +163,17 @@
     <tr>
       <td>Texto</td>
       <td>📝 <code>:pencil:</code></td>
-      <td></td>
+      <td><code>text</code></td>
     </tr>
     <tr>
       <td>Tipagem</td>
       <td>🏷️ <code>:label:</code></td>
-      <td></td>
+      <td><code>typing</code></td>
     </tr>
     <tr>
       <td>Tratamento de erros</td>
       <td>🥅 <code>:goal_net:</code></td>
-      <td></td>
+      <td><code>bugs</code></td>
     </tr>
   </tbody>
 </table>
