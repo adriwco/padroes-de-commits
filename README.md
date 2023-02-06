@@ -183,4 +183,4 @@
 <a href="https://github.com/adriwco/padroes-de-commits"><img src="https://user-images.githubusercontent.com/80191040/216958536-37337945-8f2d-4302-a627-4dd4edba22a4.svg" width="450px"></a>
 </div>
 
-### <p align="center">[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-blue?logo=conventionalcommits&logoColor=white)](https://conventionalcommits.org) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)</p>
+### <p align="center">[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-blue)](https://conventionalcommits.org) [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](https://opensource.org/licenses/MIT)</p>
