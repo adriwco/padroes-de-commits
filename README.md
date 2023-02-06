@@ -1,11 +1,12 @@
-## <p align="center">Padrões de Commits<p>
+## <div align="center">Padrões de Commits<div>
 
-### Estrutura :
+### 🔹 Estrutura :
 
-<p><code>:emoji: palavra-chave [escopo]: descrição </code></p>
+<p align="center"><code>:emoji: palavra-chave [escopo]: descrição </code></p>
 
-### Padrões :
-
+### 🔹 Padrões :
+  
+<div align="center">
 <table>
   <thead>
     <tr>
@@ -172,3 +173,8 @@
     </tr>
   </tbody>
 </table>
+<div>
+  
+---  
+  
+### <p align="center">🔹[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)🔹</p>
