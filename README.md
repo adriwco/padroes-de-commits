@@ -182,7 +182,7 @@
 ---  
  
 <div align="center">
-<img src="https://user-images.githubusercontent.com/80191040/216956992-a9c4dc59-0591-444b-9156-70629465fc3f.svg" width="450px">
+<img src="https://user-images.githubusercontent.com/80191040/216956992-a9c4dc59-0591-444b-9156-70629465fc3f.svg" width="350px">
 </div>
 
 ### <p align="center">🔹[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)🔹</p>
