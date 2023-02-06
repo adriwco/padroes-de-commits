@@ -2,7 +2,7 @@
   
 <div align="center">
 <img src="https://user-images.githubusercontent.com/80191040/216955990-fbe90e45-cbcb-460f-a2df-f7dc4a7b2172.svg" width="450px">
-<div>
+</div>
   
 ### 🔹 Estrutura :
 
