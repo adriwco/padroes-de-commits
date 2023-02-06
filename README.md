@@ -1,4 +1,4 @@
-## Padrões de Commits
+## <p align="center">Padrões de Commits<p>
 
 ### Estrutura :
 
@@ -38,7 +38,7 @@
     <tr>
       <td>Animações e transições</td>
       <td>💫 <code>:dizzy:</code></td>
-      <td></td>
+      <td><code>effects</code></td>
     </tr>
     <tr>
       <td>Bugfix</td>
@@ -73,7 +73,7 @@
     <tr>
       <td>Em progresso</td>
       <td>🚧 <code>:construction:</code></td>
-      <td></td>
+      <td><code>construction</code></td>
     </tr>
     <tr>
       <td>Estilização de interface</td>
@@ -143,12 +143,7 @@
     <tr>
       <td>SEO</td>
       <td>🔍️ <code>:mag:</code></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Tag de versão</td>
-      <td>🔖 <code>:bookmark:</code></td>
-      <td></td>
+      <td><code>seo</code></td>
     </tr>
     <tr>
       <td>Teste de aprovação</td>
