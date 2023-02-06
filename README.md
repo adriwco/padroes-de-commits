@@ -168,7 +168,7 @@
     </tr>
     <tr>
       <td>Tratamento de erros</td>
-      <td>🥅 <code>:goal_net:</code></td>
+      <td>❗ <code>:exclamation:</code></td>
       <td><code>bugs</code></td>
     </tr>
   </tbody>
