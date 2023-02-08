@@ -6,7 +6,7 @@
 
 ### 🔹 Estrutura :
 
-<p align="center"><code>:emoji: palavra-chave [escopo]: descrição </code>, sendo <code>:emoji:</code> e <code>[escopo]</code> opcional.</p>
+<p align="center"><code>:emoji: palavra-chave [escopo]: descrição</code>, sendo <code>:emoji:</code> e <code>[escopo]</code> opcional.</p>
 
 ### 🔹 Padrões :
   
